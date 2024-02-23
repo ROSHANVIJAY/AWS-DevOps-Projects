@@ -1,0 +1,14 @@
+DevOps Project 01
+🚀 AWS resource tracking with a shell script! 🌐💻
+
+✨ **Key Steps:**
+1. Launch the Linux instance.
+2. Connect using Git Bash.
+3. Install AWS CLI for seamless commands.
+4. Script creation with metadata, focusing on EC2, S3, Lambda, and IAM Users.
+5. Debug mode with `set -x` for enhanced visibility.
+6. Execute commands with `#` and `echo` for resource tags.
+7. Leverage pipelines (`|`) for smooth command execution.
+8. Enhance readability with `more`.
+9. Use `jq` for JSON data extraction.
+10. Redirect script output to a file with `>`.
