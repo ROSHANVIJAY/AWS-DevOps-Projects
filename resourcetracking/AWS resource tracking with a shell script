@@ -13,3 +13,5 @@ DevOps Project 01
 8. Enhance readability with `more`.
 9. Use `jq` for JSON data extraction.
 10. Redirect script output to a file with `>`.
+
+
