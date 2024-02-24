@@ -1,0 +1,13 @@
+DevOps Project 02
+
+🚀 Excited to share my recent journey of deploying and exposing a Node.js application on AWS EC2! Here's a quick rundown of the steps I followed:
+
+1️⃣ **IAM User Creation**: Set up a secure IAM user with the necessary permissions to interact with AWS services.
+
+2️⃣ **Ubuntu EC2 Instance Creation**: Launched an Ubuntu EC2 instance via the AWS console to serve as the hosting environment.
+
+3️⃣ **Node.js Application Deployment**: Cloned the application's source code from GitHub onto the EC2 instance, installed dependencies, and launched the Node.js application.
+
+4️⃣ **Exposing the Application**: Configured the EC2 instance's security group to allow inbound traffic on the appropriate port (e.g., 3000 for the local Host). Tested access to the application to ensure it's reachable from the outside world.
+
+💡Deploying applications on AWS EC2 opens up endless possibilities for scalable and reliable hosting. Excited to dive deeper into AWS services and explore more innovative solutions!
