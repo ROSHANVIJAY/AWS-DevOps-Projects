@@ -1,0 +1,52 @@
+🚀 Devops Project 03: Launch Your Own LAMP Stack Web App on AWS!**
+
+Lightsail:
+Amazon Lightsail is a AWS service easy-to-use virtual private server (VPS) instances, containers, storage, databases,more at a cost-effective monthly price.
+The main benefit is it's simplified setup and management processes allow businesses to quickly deploy and maintain their applications.
+
+LAMP Stack:
+A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. 
+LAMP is an acronym for the operating system, Linux; the web server, Apache; the database server, MySQL; and the programming language, PHP.
+
+
+🌐 **Step 1: Set Up AWS Account**
+Sign up for an AWS account at [AWS Sign-Up](https://aws.amazon.com/) to get started.
+
+☁️ **Step 2: Access AWS Management Console**
+Log in to the [AWS Management Console](https://aws.amazon.com/console/) to start building.
+
+🖥️ **Step 3: Launch EC2 Instance**
+Follow the tutorial to launch an EC2 instance with your preferred Linux distribution.
+
+🔗 **Step 4: Connect to EC2 Instance**
+Use SSH to connect to your instance using the provided key pair.
+
+🚀 **Step 5: Install Apache Web Server**
+Update and install Apache to set up the foundation for your web app.
+
+🔒 **Step 6: Secure MySQL Installation**
+Securely install MySQL and run the security script for protection.
+
+💻 **Step 7: Install PHP**
+Install PHP and necessary modules for Apache to enable server-side scripting.
+
+🚧 **Step 8: Create Simple PHP File**
+Test your LAMP stack by creating a simple PHP file in the Apache document root.
+
+🌐 **Step 9: Access Web App**
+Open your browser, go to your EC2 instance's IP address, and witness your PHP info page.
+
+📁 **Step 10: Create Your Web Application**
+Upload your web app files to the server and configure settings as needed.
+
+🔒 **Step 11: Configure Security Groups**
+Ensure that your EC2 instance's security group allows inbound traffic on ports 80 and 443.
+
+🌐 **Step 12: Domain Configuration (Optional)**
+For a personalized touch, configure your domain to point to your EC2 instance.
+
+🔄 **Step 13: Regular Maintenance**
+Perform routine tasks like updating packages, backing up your database, and monitoring logs.
+
+
+🚀 Reference:[AWS LAMP Web App Tutorial](https://aws.amazon.com/getting-started/hands-on/launch-lamp-web-app/)
