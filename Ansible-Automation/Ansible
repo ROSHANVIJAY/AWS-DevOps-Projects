@@ -1,0 +1,24 @@
+DevOps Project-05 - Ansible Automation
+
+I've embarked on a DevOps adventure, diving deep into Ansible to streamline our automation processes. Here's a snapshot of my learnings:
+
+1️⃣ **Setting Up Infrastructure with AWS**: Leveraged AWS to create two Ubuntu instances, one serving as the Ansible server and the other as the target.
+
+2️⃣ **SSH Configuration**: Established password-less authentication between the Ansible server and the target machine, ensuring smooth communication.
+
+3️⃣ **Ad Hoc Commands**: Experimented with Ansible ad hoc commands to perform tasks like creating files on the target machine without using playbooks.
+
+4️⃣ **Inventory Management**: Learned the importance of inventory files and practiced grouping servers for better organization.
+
+5️⃣ **Playbook Creation**: Delved into playbook creation, using YAML syntax to define tasks such as installing and starting an Nginx server.
+
+6️⃣ **Execution and Debugging**: Successfully executed playbooks and used verbosity flags (-v, -vvv) to understand what's happening under the hood.
+
+In addition to these milestones, I've picked up valuable best practices along the way:
+
+✅ **Roles and Modularity**: Explored the concept of roles to modularize playbooks and promote reusability.
+✅ **Variables and Templates**: Leveraged Ansible's variable and template features for dynamic configuration generation.
+✅ **Error Handling**: Implemented error handling and retries to ensure robustness in automation workflows.
+✅ **Dynamic Inventory**: Embraced dynamic inventory scripts for automatic infrastructure discovery and management.
+✅ **Version Control**: Kept my automation code under version control using Git for collaboration and tracking changes.
+✅ **Testing and Documentation**: Prioritized testing playbooks in staging environments and documented processes for clarity and future reference.
