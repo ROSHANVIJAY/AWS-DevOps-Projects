@@ -1,0 +1,18 @@
+🚀 🎉DevOps Project-06 - build Infrastructure using Terraform
+
+🌟 Key Takeaways:
+1. Terraform Use-Cases: Explored how Terraform streamlines infrastructure provisioning, management, and scaling on cloud platforms like AWS, Azure, and Google Cloud.
+
+2. Terraform Life Cycle: Learned the stages - planning, applying, and destroying - crucial for orchestrating changes in infrastructure.
+
+3. Writing Your First Terraform Project: Created an EC2 instance using Terraform scripts, diving into provider configurations, resource definitions, and more.
+
+4. Terraform State File, Variables, Inputs, Outputs: Explored vital files like `variable.tf`, `input.tf`, `output.tf`, and the Terraform state file, understanding their roles in managing infrastructure as code.
+
+5. Terraform Best Practices: Delved into organizing code into reusable modules, version control, state management, and other best practices for efficient infrastructure automation.
+
+git hub : https://lnkd.in/gYJ3WsPf
+Terraform installation: https://lnkd.in/gpiZzYnf
+terraform doc: https://lnkd.in/gya5XbzT
+
+#DevOps #Terraform #InfrastructureAsCode #CloudComputing #LearningJourney #devopscommunity #zerotohero
