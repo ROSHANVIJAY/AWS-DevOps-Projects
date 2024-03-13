@@ -1,0 +1,25 @@
+Step 1: Custom VPC Creation
+Craft your custom VPC in AWS with a CIDR block of 10.0.0.0/16 to lay the foundation for your project.
+
+Step 2: Public Subnets in Multiple AZs
+Establish two public subnets across different availability zones (AZs) with ranges 10.0.0.0/24 and 10.0.1.0/16.
+
+Step 3: Internet Gateway Assignment
+Connect an internet gateway to the subnets, transforming them into public subnets ready for internet access.
+
+Step 4: Route Table Configuration
+Edit the route table for each subnet, setting the destination as the internet gateway for seamless connectivity.
+
+Step 5: EC2 Instance Deployment
+Deploy two EC2 instances, strategically placing each within a separate subnet to optimize your infrastructure.
+
+Step 6: AWS S3 Bucket Deployment
+Initiate an AWS S3 bucket deployment, ensuring to grant the necessary permissions for EC2 instances to access S3.
+
+Step 7: Application Load Balancer Deployment
+Elevate your project by deploying an Application Load Balancer (ALB) to distribute traffic efficiently.
+
+Step 8: Security Groups for EC2 and ALB
+Create security groups and attach them to both EC2 instances and the ALB, ensuring robust and secure communication.
+
+Step 9: Terraform State File, Variables, Inputs, Outputs: Explored vital files like 'variable.tf', 'main.tf', 'output.tf', 'provider.tf' and the Terraform state file, understanding their roles in managing infrastructure as code
